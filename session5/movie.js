@@ -1,4 +1,5 @@
-const APIKEY = "6aba26dad5ce3a239a6e49ab04b71b5a";
+const APIKEY = "";
+//https://www.themoviedb.org/ api 가져오기
 const IMAGE_URL = "https://image.tmdb.org/t/p/w500";
 
 const options = {
